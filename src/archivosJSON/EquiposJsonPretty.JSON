@@ -1,0 +1,82 @@
+{
+  "equiposJson": [
+    {
+      "nombre": "River"
+    },
+    {
+      "nombre": "Talleres"
+    },
+    {
+      "nombre": "Boca Juniors"
+    },
+    {
+      "nombre": "Lanus"
+    },
+    {
+      "nombre": "Velez"
+    },
+    {
+      "nombre": "Estudiantes"
+    },
+    {
+      "nombre": "Colon"
+    },
+    {
+      "nombre": "Defensa y Justicia"
+    },
+    {
+      "nombre": "Huracan"
+    },
+    {
+      "nombre": "Independiente"
+    },
+    {
+      "nombre": "Argentinos Juniors"
+    },
+    {
+      "nombre": "Gimnasia LP"
+    },
+    {
+      "nombre": "Godoy Cruz"
+    },
+    {
+      "nombre": "Racing"
+    },
+    {
+      "nombre": "Union"
+    },
+    {
+      "nombre": "Rosario Central"
+    },
+    {
+      "nombre": "Platense"
+    },
+    {
+      "nombre": "Sarmiento"
+    },
+    {
+      "nombre": "Atletico Tucuman"
+    },
+    {
+      "nombre": "Newell\u0027s"
+    },
+    {
+      "nombre": "San Lorenzo"
+    },
+    {
+      "nombre": "Aldosivi"
+    },
+    {
+      "nombre": "Patronato"
+    },
+    {
+      "nombre": "Banfield"
+    },
+    {
+      "nombre": "Arsenal"
+    },
+    {
+      "nombre": "Central Cordoba"
+    }
+  ]
+}
